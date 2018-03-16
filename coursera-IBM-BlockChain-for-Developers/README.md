@@ -41,7 +41,28 @@ Q: How can IBM help you apply blockchain? IBM is a premier member of the Linux F
 + Originally, we have to render the smart contracts and block chain in the Go language.  This is an inhibitor of time and value, so creating a fabric composer to allow people to think about blockchain in high level of abstraction such as assets, transactions, participants in the business network.  Then to model the operation of the business netowrk and smart contracts using JavaScript.  
 
 
-### Blockchain asset transfer demo  
+### Blockchain asset transfer  
+	+ Lab 1 - Car Auction Network  
+
+## Week 4
+
+### Hyperledger Composer   
+
+	+ What is it? an application development framework that helps you create Hperledger Fabric applications.  It has components such as APIs, a modeling language, and a programming model.  
+
+	+ Instead of using chaincode to render smart contracts and other blockchain components, the Hyperledger Composer allows you to model, build, adn deploy business netowrks and applications much faster.  
+
+	+ Composer defines JavaScript APIs to submit transactions and to create, retrieve, update, and delete assets within asset registries.  
+
+
+#### Benefits of Hyperledger Composer  
+
+	+ Increases understanding - bridges simply from business concepts to blockchain  
+	+ Saves time - develop blockchain apps more quickly and cheaply  
+	+ Reduces risk - well tested, efficient design conforms to best practice. easy to test with traditinoal devOps tool.   
+	+ Increases flexibility - higher level abstraction makes it easier to iterate  
+
+
 
   
 

@@ -5,6 +5,8 @@ namespace org.acme.vehicle.auction
 
 asset Vehicle identified by vin {
   o String vin
+  o String make optional
+  o String model optional
   --> Member owner
 }
 
