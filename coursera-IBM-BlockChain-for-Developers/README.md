@@ -41,7 +41,11 @@ Q: How can IBM help you apply blockchain? IBM is a premier member of the Linux F
 + Originally, we have to render the smart contracts and block chain in the Go language.  This is an inhibitor of time and value, so creating a fabric composer to allow people to think about blockchain in high level of abstraction such as assets, transactions, participants in the business network.  Then to model the operation of the business netowrk and smart contracts using JavaScript.  
 
 
-### Blockchain asset transfer demo
+### Blockchain asset transfer demo  
+
+  
+
+
 
 
 
