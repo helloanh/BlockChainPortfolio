@@ -1,0 +1,22 @@
+{
+  "name": "anh-tutorial-network",
+  "version": "0.0.1",
+  "description": "my implementation of tutorial-network following the instructions on https://hyperledger.github.io/composer/tutorials/developer-tutorial.html",
+  "scripts": {
+    "test": "mocha --recursive"
+  },
+  "author": "Anh K. Hoang",
+  "email": "akhoang88@gmail.com",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "composer-admin": "latest",
+    "composer-client": "latest",
+    "composer-common": "latest",
+    "composer-connector-embedded": "latest",
+    "chai": "latest",
+    "eslint": "latest",
+    "istanbul": "latest",
+    "mkdirp": "latest",
+    "mocha": "latest"
+  }
+}
