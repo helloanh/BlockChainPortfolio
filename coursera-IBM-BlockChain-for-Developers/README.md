@@ -60,8 +60,21 @@ Q: How can IBM help you apply blockchain? IBM is a premier member of the Linux F
 	+ Increases understanding - bridges simply from business concepts to blockchain  
 	+ Saves time - develop blockchain apps more quickly and cheaply  
 	+ Reduces risk - well tested, efficient design conforms to best practice. easy to test with traditinoal devOps tool.   
-	+ Increases flexibility - higher level abstraction makes it easier to iterate  
+	+ Increases flexibility - higher level abstraction makes it easier to iterate    
 
+
+#### Deploying Business Network Application in Fabric  
+
+```
+# the enrollmentID and secret key are what you will receive on the Fabric, from someone who configured the identify for you
+
+composer network deploy -a path/of/bna/file -i EnrollmentIdHere -s enrollementsecretkey
+
+# to see our container on docker
+docker ps -a  
+
+# getting rest-api  
+```
 
 
   
